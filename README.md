@@ -14,7 +14,9 @@
 
 ## 🚀 Introduction
 
-Welcome to Flappy Bird Extreme: Java Edition! This project reimagines the classic Flappy Bird game, powered by Java and enhanced with modern features. Navigate your bird through an increasingly challenging obstacle course, compete for high scores, and experience the thrill of flappy flight like never before!
+Welcome to Flappy Bird Extreme: Java Edition! This project reimagines the classic Flappy Bird game,
+powered by Java and enhanced with modern features. Navigate your bird through an increasingly challenging obstacle course,
+compete for high scores, and experience the thrill of flappy flight like never before!
 
 ## 🌟 Features
 
